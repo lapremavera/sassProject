@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGA,MAAO;EACH,KAAK,ECFI,OAAkB;;ADK/B,IAAK;EACD,gBAAgB,EEPF,KAAK;;AFUvB,IAAK;EACD,KAAK,ECVI,OAAkB;;ADa/B,CAAI;EACC,KAAK,ECdG,OAAkB;EDe1B,WAAW,ECdT,4BAA4B",
+"sources": ["style.scss","_variables.scss","_color.scss"],
+"names": [],
+"file": "style.css"
+}
